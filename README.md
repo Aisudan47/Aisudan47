@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudan Sapkota</h1>
-<h3 align="center">🎓 I am an IT graduate.</h3>(img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif")
+<h3 align="center">🎓 I am an IT graduate.</h3>(img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif")</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisudan47&label=Profile%20views&color=0e75b6&style=flat" alt="aisudan47" /> </p>
 
