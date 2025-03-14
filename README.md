@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aisudan47&label=Profile%20views&color=0e75b6&style=flat" alt="aisudan47" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aisudan47" alt="aisudan47" /></a> </p>
-
 - 🔭 I’m currently working on **Excel Annual Budget Tracking**
 
 - 🌱 I’m currently learning **Excel,Powerbi,Sql,Python**
