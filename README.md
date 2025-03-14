@@ -1,3 +1,4 @@
+![MasterHead](https://www.ccu.edu/_files/images/cags/programs/data-analytics-degree.jpg)
 <h1 align="center">Hi 👋, I'm Sudan Sapkota</h1>
 <h3 align="center">🎓| Data Analytics Enthusiast | Proficient in SQL, Python, Excel & Power BI | Turning Data into Insights</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
